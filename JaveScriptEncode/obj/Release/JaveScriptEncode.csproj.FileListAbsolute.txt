@@ -1,0 +1,4 @@
+E:\项目\2015\5月\ToolBox\JaveScriptEncode\bin\Release\JaveScriptEncode.dll
+E:\项目\2015\5月\ToolBox\JaveScriptEncode\bin\Release\JaveScriptEncode.pdb
+E:\项目\2015\5月\ToolBox\JaveScriptEncode\obj\Release\JaveScriptEncode.dll
+E:\项目\2015\5月\ToolBox\JaveScriptEncode\obj\Release\JaveScriptEncode.pdb
